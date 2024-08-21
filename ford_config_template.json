@@ -1,0 +1,9 @@
+{
+    "client_id": "<your id here>",
+    "client_secret": "<your secret here>",
+    "redirect_uri": "http://localhost:3000",
+    "vehicle_id": "optional, populated later",
+    "application_id": "<your application id here>",
+    "token_expires": "2020-01-01T17:14:58+00:00",
+    "authorization_code": "<the code from Ford's word document here>"
+}
